@@ -1,6 +1,6 @@
 {
-	"renting":"off",
-	"e_sell":"off",
+	"renting":"on",
+	"e_sell":"on",
 	"village":"on",
 	"og":"IZERE HIRWA ROGER",
 	"github":"https://github.com/IZEREROGER"
