@@ -3,6 +3,8 @@
 	"e_sell":"on",
 	"village":"on",
 	"yego_ussd":"on",
+	"ticket_pay":"on",
+	"ticket_web":"on",
 	"og":"IZERE HIRWA ROGER",
 	"github":"https://github.com/IZEREROGER"
 }
