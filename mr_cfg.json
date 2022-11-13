@@ -4,7 +4,7 @@
 	"village":"on",
 	"yego_ussd":"on",
 	"ticket_pay":"on",
-	"ticket_web":"on",
+	"ticket_web":"off",
 	"og":"IZERE HIRWA ROGER",
 	"github":"https://github.com/IZEREROGER"
 }
