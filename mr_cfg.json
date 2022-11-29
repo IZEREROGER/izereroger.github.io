@@ -5,7 +5,9 @@
 	"yego_ussd":"on",
 	"ticket_pay":"on",
 	"ticket_web":"on",
-	"health_web":"on",	
+	"health_web":"on",
+	"banking_web":"on",
+	"mission":"on",	
 	"og":"IZERE HIRWA ROGER",
 	"github":"https://github.com/IZEREROGER"
 }
